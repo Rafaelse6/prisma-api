@@ -1,0 +1,4 @@
+node_modukes
+dist
+build
+/**/*.js
